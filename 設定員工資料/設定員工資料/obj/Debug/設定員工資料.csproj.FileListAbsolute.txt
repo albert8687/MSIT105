@@ -1,0 +1,9 @@
+C:\Albert\C# 元件開發\設定員工資料\設定員工資料\bin\Debug\設定員工資料.exe.config
+C:\Albert\C# 元件開發\設定員工資料\設定員工資料\bin\Debug\設定員工資料.exe
+C:\Albert\C# 元件開發\設定員工資料\設定員工資料\bin\Debug\設定員工資料.pdb
+C:\Albert\C# 元件開發\設定員工資料\設定員工資料\obj\Debug\設定員工資料.csprojResolveAssemblyReference.cache
+C:\Albert\C# 元件開發\設定員工資料\設定員工資料\obj\Debug\設定員工資料.Form1.resources
+C:\Albert\C# 元件開發\設定員工資料\設定員工資料\obj\Debug\設定員工資料.Properties.Resources.resources
+C:\Albert\C# 元件開發\設定員工資料\設定員工資料\obj\Debug\設定員工資料.csproj.GenerateResource.Cache
+C:\Albert\C# 元件開發\設定員工資料\設定員工資料\obj\Debug\設定員工資料.exe
+C:\Albert\C# 元件開發\設定員工資料\設定員工資料\obj\Debug\設定員工資料.pdb
